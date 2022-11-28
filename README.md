@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sizuya97
-- 👀 I’m interested in Data Science and Product Analysis
-- 🌱 I’m currently learning Python and SQL for ML and Product Analysis
+- 👀 I’m interested in Data Science and UX-Analysis
+- 🌱 I’m currently learning Python and SQL
 - 📫 How to reach me: https://www.linkedin.com/in/sdaniil/
 
 <!---
