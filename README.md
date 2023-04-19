@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Sizuya97, business analyst.
-- 👀 I’m interested in Machine learning and Product analysis. Here you can see my pet-projects. 
+- 👀 I’m interested in Product analysis and Machine learning. Here you can see my pet-projects. 
 - 📫 How to reach me: https://www.linkedin.com/in/sdaniil/
