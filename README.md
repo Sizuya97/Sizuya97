@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Sizuya97, business analyst.
+- 👋 Hi, I’m @Sizuya97, Business Analyst.
 - 👀 I’m interested in Product Analysis. Here you can see my pet-projects. 
 - 📫 How to reach me: https://www.linkedin.com/in/sdaniil/
